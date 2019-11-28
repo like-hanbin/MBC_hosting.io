@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    font-family: 'East Sea Dokdo', sans-serif;
+    text-align: center;
+    border-bottom: 1px dashed #fff;
+    padding-bottom: 10px;
+}
+
+.mainPicture {
+    width: 200px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.secContainer{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 40px;
+}
+
+.secTitle {
+    font-family: 'Black Han Sans', sans-serif;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.secContent {
+    font-size: 15px;
+    width: 50%;
+    display: inline-block;
+}
+
